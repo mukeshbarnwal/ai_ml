@@ -11,5 +11,11 @@ The most important thing in text processing, text generation and text understand
 
 Lets explain this with an example from stock market. Consider this sentence: "The stock market is high only in people's mind". It is a pun which suggests that stock market is high but only in thoughts of people or investors. It does not mean that stock market is performing better or sensex score is high. Here high would mean differently than when present alone. A tone of criticism, pun is intended here. For another example, "The stock market is high". Here it actually means stock market is performing well. High actually means high sccore. Therefore, embedding of the same word will be different in the two sentences because embedding will depend on the context of the sentence and the words surrounding them. One popular techniques to calculate these embeddings is through use of Tranformers. We will discuss how transformer works in detail in some other transformed day. But lets get back to Dense retrieval which is the topic in the table right now. 
 
+Dense retrieval is a technique to extract the sentences that are similar to the query asked. 
 
 
+
+
+
+
+https://medium.com/@aikho/deep-learning-in-information-retrieval-part-ii-dense-retrieval-1f9fecb47de9
