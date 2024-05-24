@@ -1,4 +1,4 @@
-# ai_ml
+# information retrieval
 
 **How to do semantic search in a pdf?**
 
