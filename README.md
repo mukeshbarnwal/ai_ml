@@ -1,4 +1,4 @@
-# information retrieval
+# Information Retrieval
 
 **How to do semantic search in a pdf?**
 
